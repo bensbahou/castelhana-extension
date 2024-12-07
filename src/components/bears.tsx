@@ -1,9 +1,10 @@
-import { useBearStore } from "~stores/useBearStore"
+import { Button } from "@/components/ui/button"
 
-import { Button } from "./button"
+import { useBearStore } from "~stores/useBearStore"
 
 const Bears = () => {
   const { bears, bigBears, reset, setBears } = useBearStore()
+  console.log("Hello from Bears")
   return (
     <div className="plasmo-flex plasmo-items-center plasmo-justify-center plasmo-h-16 plasmo-w-40">
       <p>Extension: {chrome.runtime.getManifest().name}</p>

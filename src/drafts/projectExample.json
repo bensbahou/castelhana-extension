@@ -1,0 +1,944 @@
+{
+    "Address": "Avenida de Manuel Pinto de Azevedo",
+    "Agency": {
+        "AboutUs": "A Castelhana é um nome de referência no setor imobiliário português há mais de 25 anos. Como empresa do grupo Dils, especializamo-nos na assessoria a empresas, organizações e investidores (institucionais) na compra, venda, arrendamento e desenvolvimento de imóveis residenciais. \r\n\r\nFundada em 1999, a Castelhana construiu ao longo dos anos, um dos maiores e mais sólidos portfólios imobiliários em Portugal, com mais de 600 projetos de reabilitação e nova construção, totalizando um valor superior a 2,3 mil milhões de euros de investimento nos últimos 10 anos. \r\n\r\nUm player de referência na mediação de novos empreendimentos em Lisboa e no Porto, que vem desempenhando um papel fundamental nos projetos mais emblemáticos de Portugal, em colaboração com mais de 200 promotores imobiliários. \r\n\r\nA Castelhana conta com mais de 80 profissionais a operar em Portugal, com escritórios em Lisboa, Porto e Algarve.",
+        "Address": "Rua do Carmo 15, 3º Esq.",
+        "CellPhones": [
+            "+351 916246905",
+            "+351 916 246 905"
+        ],
+        "CellPhonesInfo": [
+            {
+                "Description": "",
+                "PhoneNumber": "+351 916246905"
+            },
+            {
+                "Description": "",
+                "PhoneNumber": "+351 916 246 905"
+            }
+        ],
+        "City": "Lisboa",
+        "CountryID": 620,
+        "Currency": "EUR",
+        "Email": "info@castelhana.pt",
+        "Fax": "",
+        "FiscalNumber": "504483234",
+        "GPSLat": 41.24360616,
+        "GPSLon": -8.43760237,
+        "HasProperties": true,
+        "ID": 14357,
+        "License": "3497",
+        "Logo": "https://media.egorealestate.com/Original/97ff8d17-79b2-4404-bfe4-c11c8d1b1974.jpg",
+        "Municipality": "Lisboa",
+        "Name": "Castelhana - A Dils Company",
+        "ObjType": "Agency",
+        "Observations": "",
+        "OfficeHours": "Escritório  Segunda a Sexta-feira das 9:30 às 18:00 \r\nLoja   todos os dias 10:00 às 19:00",
+        "Parish": "Santa Maria Maior",
+        "Phones": [
+            "+351916246905"
+        ],
+        "PhonesInfo": [
+            {
+                "Description": "",
+                "PhoneNumber": "+351916246905"
+            }
+        ],
+        "PresentationImg": "https://media.egorealestate.com/140x105/84ac53a6-9c6c-4836-ae07-1d5312f65b8d.jpg",
+        "PresentationVideo": null,
+        "Slogan": "Imobiliário Lisboa",
+        "SocialNetwork": [],
+        "SocialReason": "Castelhana - Sociedade de Mediação imobiliária Lda  ",
+        "ZipCode": "1200"
+    },
+    "AgencyID": 14357,
+    "AreaUtilRange": [
+        56,
+        294
+    ],
+    "Availability": "Disponível",
+    "AvailabilityID": 2,
+    "AvailableRoomsFomatedRange": [
+        "T0",
+        "T5"
+    ],
+    "AvailableRoomsList": [
+        "T0",
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T5"
+    ],
+    "AvailableRoomsRange": [
+        0,
+        5
+    ],
+    "Condition": "Em construção",
+    "ConditionID": 2,
+    "Country": "Portugal",
+    "CountryISO": "PT",
+    "CustomLocation": null,
+    "Description": "Novo edifício Lake, inserido no empreendimento The Garden. \r\n\r\nO Lake é um projeto residencial com um jardim privativo de 30.000 m2 localizado num condomínio exclusivo em Matosinhos.\r\n\r\nO Lake é composto por apartamentos T0 a T5, com amplas áreas, acabamentos de alta qualidade, varandas, e garagens fechadas, num condomínio com segurança 24 horas.\r\n\r\nCozinhas totalmente equipadas com eletrodomésticos Siemens, ar condicionado por condutas em todas as divisões, sistema de aquecimento em AQS e painéis solares, pavimento radiante nas casas de banho, blackouts eléctricos, garagens de tipo box com portões automáticos preparadas para carregamento de veículos eléctricos, entre outros.\r\n\r\nUm projeto inovador e moderno, situado no terreno da emblemática fábrica Efanor em Matosinhos, oferece um ambiente ideal para quem deseja viver no centro urbano, mas com a tranquilidade de estar rodeado por uma vasta área verde.\r\n\r\nO Lake é um edifício com arquitetura contemporânea e elegante, composto por quatro blocos interligados pelos pisos inferiores, proporcionando uma conexão direta às áreas verdes ao redor.\r\n\r\nO Edifício está rodeado por árvores, espelhos de água e trilhos pedonais, inserido num extenso jardim privativo de 30.000 m².\r\n\r\nO Lake tem a linha de praias de Matosinhos e o Porto a poucos minutos, o NorteShopping numa distância pedonal, proporcionando aos residentes do Lake uma envolvente vibrante e cosmopolita.\r\n\r\nA localização com uma variedade de serviços desde restaurantes, cafés, Hospitais - Pedro Hispano, CUF e Instituto CUF - parques infantis, escolas e colégios de que são exemplo o Colégio Efanor, líder no ranking nacional há quatro anos consecutivos, a prestigiada Porto Business School, a reconhecida internacionalmente ESAD - Escola Superior de Artes e Design e o IPAM - Marketing Business School bem como a CEIIA e o BNP Paribas.\r\n\r\nBeneficia ainda de ótimas acessibilidades, com duas estações de metro próximas - Norteshopping-Sete Bicas e Senhora da Hora -, o que proporciona mobilidade e versatilidade através de transportes públicos - nos diversos sentidos Aeroporto Francisco Sá Carneiro - Estação de Campanhã - Pólo Universitário do São João - Baixa/Centro da Cidade do Porto - Matosinhos/Praias - Vila Nova de Gaia.\r\n\r\nAinda a ligação às principais vias de comunicação para a cidade do Porto, bem como para as vias rápidas de acesso a Braga, Vila Real, Viana do Castelo e Sul, proporcionando total conveniência aos seus residentes.\r\n\r\nConclusão prevista para o fim de 2026.\r\n\r\nNão perca esta oportunidade, faça já a sua reserva no novo empreendimento Lake.\r\n\r\nA Castelhana é um nome de referência no setor imobiliário português há mais de 25 anos. Como empresa do grupo Dils, especializamo-nos na assessoria a empresas, organizações e investidores (institucionais) na compra, venda, arrendamento e desenvolvimento de imóveis residenciais.\r\n\r\nFundada em 1999, a Castelhana construiu ao longo dos anos, um dos maiores e mais sólidos portfólios imobiliários em Portugal, com mais de 600 projetos de reabilitação e nova construção.\r\n\r\nNo Porto, estamos sediados na Foz Do Douro, um dos locais mais nobres da cidade. Em Lisboa, no Chiado, uma das zonas mais emblemáticas e tradicionais da capital e na região do Algarve junto à reconhecida Marina de Vilamoura.\r\n\r\nFicamos à sua espera. Contamos com uma equipa disponível para lhe dar o melhor apoio no seu próximo investimento imobiliário.\r\n\r\nContacte-nos!",
+    "DevelopmentAgents": [
+        {
+            "AgentDescription": "",
+            "AgentEmail": "nunopintodesousa@castelhana.pt / nuno@pintodesousa.com",
+            "AgentGender": "M",
+            "AgentID": 22741812,
+            "AgentName": "Nuno Pinto de Sousa",
+            "AgentPhone": "930421914 / +351925549555",
+            "AgentPhoneInfo": [
+                {
+                    "Description": "",
+                    "PhoneNumber": "930421914 "
+                },
+                {
+                    "Description": "",
+                    "PhoneNumber": " +351925549555"
+                }
+            ],
+            "AgentPhoto": "https://media.egorealestate.com/512x384/8d6fe09e-4632-49c1-be6a-b26d3dd34068.jpg",
+            "AgentSocialProfiles": [],
+            "Job": "",
+            "Roles": [
+                {
+                    "ID": 4,
+                    "Name": "Angariador",
+                    "NameMLS": {
+                        "Values": [
+                            "[PT-PT]Angariador[/PT-PT]",
+                            "[EN-GB]Raiser[/EN-GB]"
+                        ]
+                    },
+                    "Tag": null
+                },
+                {
+                    "ID": 4,
+                    "Name": "Angariador",
+                    "NameMLS": {
+                        "Values": [
+                            "[PT-PT]Angariador[/PT-PT]",
+                            "[EN-GB]Raiser[/EN-GB]"
+                        ]
+                    },
+                    "Tag": null
+                }
+            ],
+            "Websites": null
+        }
+    ],
+    "DevelopmentBusiness": [
+        {
+            "BusinessID": 1,
+            "BusinessName": "Venda",
+            "CurrencyConversions": null,
+            "Prices": [
+                {
+                    "CurrencyISO": "EUR",
+                    "CurrencyName": "Euro",
+                    "CurrencySymbol": "€",
+                    "FormattedPrice": "",
+                    "HolidaySeasonPrice": null,
+                    "MarketValue": 0,
+                    "PriceValue": 0,
+                    "ReferenceIndexSquareMeter": 0
+                }
+            ]
+        }
+    ],
+    "District": "Porto",
+    "FeatureTags": [
+        {
+            "Tag": "AIRPORT",
+            "Value": ""
+        },
+        {
+            "Tag": "AREAS",
+            "Value": "1.00"
+        },
+        {
+            "Tag": "AREA_T",
+            "Value": "1.00"
+        },
+        {
+            "Tag": "BALCONY",
+            "Value": ""
+        },
+        {
+            "Tag": "CENTER_CITY",
+            "Value": ""
+        },
+        {
+            "Tag": "CHILDREN_PLAYGROUND",
+            "Value": ""
+        },
+        {
+            "Tag": "CITY_VIEW",
+            "Value": ""
+        },
+        {
+            "Tag": "EXCELLENT_ACCESS",
+            "Value": ""
+        },
+        {
+            "Tag": "FEATURE_NATURAL_LIGHT",
+            "Value": ""
+        },
+        {
+            "Tag": "GARDEN_VIEW",
+            "Value": ""
+        },
+        {
+            "Tag": "GYM",
+            "Value": ""
+        },
+        {
+            "Tag": "HAS_HEAT_PUMP",
+            "Value": ""
+        },
+        {
+            "Tag": "HEALTH_CENTER",
+            "Value": ""
+        },
+        {
+            "Tag": "HIGHWAY",
+            "Value": ""
+        },
+        {
+            "Tag": "HOSPITAL",
+            "Value": ""
+        },
+        {
+            "Tag": "NEAR_THE_AIRPORT",
+            "Value": "10 minutos"
+        },
+        {
+            "Tag": "NEAR_THE_SCHOOL",
+            "Value": "1 minuto"
+        },
+        {
+            "Tag": "NEAR_THE_SUBWAY",
+            "Value": "1 minuto"
+        },
+        {
+            "Tag": "PHARMACY",
+            "Value": ""
+        },
+        {
+            "Tag": "POLICE",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_CONSTRUCTION_END",
+            "Value": "2026-12-30"
+        },
+        {
+            "Tag": "PROPERTY_HAS_24H_SECURITY",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_AC",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_ACUSTIC_ISOLATION",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_BALCONY",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_Contemporary",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_Cosmopolitan",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_DOUBLE_GLASS",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_ELECTRIC_GATE",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_ELEVATOR",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_FACING_CITY",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_GYM",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_RADIANT_FLOORS",
+            "Value": "elétrico"
+        },
+        {
+            "Tag": "PROPERTY_HAS_SECURITY_DOOR",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_SOLAR_PANELS",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_TERMIC_ISOLATION",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_TRADITIONAL_COM",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_HAS_VIDEO_ENTRY",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_NEAR_BANK",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_NEAR_FUEL_STATION",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_NEAR_MARKET",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_NEAR_SHOPPING_CENTER",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_NEAR_SUBWAY",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_NEAR_UNIVERSITY",
+            "Value": ""
+        },
+        {
+            "Tag": "PROPERTY_NUM_FLOORS",
+            "Value": "7"
+        },
+        {
+            "Tag": "PROPERTY_TXT_SOLAR_ORIENTATION",
+            "Value": "Todas"
+        },
+        {
+            "Tag": "PUBLIC_PARKING",
+            "Value": ""
+        },
+        {
+            "Tag": "SCHOOL",
+            "Value": ""
+        },
+        {
+            "Tag": "SEARCH_HASAC",
+            "Value": ""
+        },
+        {
+            "Tag": "SEARCH_HASAUTOMATICGATE",
+            "Value": ""
+        },
+        {
+            "Tag": "SEARCH_HASBALCONY",
+            "Value": ""
+        },
+        {
+            "Tag": "SEARCH_HASELEVATOR",
+            "Value": ""
+        },
+        {
+            "Tag": "SEARCH_HASVIGILANCE",
+            "Value": ""
+        },
+        {
+            "Tag": "SUPERCASA_AUTOMATIC_GATE_1024",
+            "Value": ""
+        },
+        {
+            "Tag": "SUPERCASA_ELEVATOR_4",
+            "Value": ""
+        },
+        {
+            "Tag": "SUPERCASA_HAS_AC_1",
+            "Value": ""
+        },
+        {
+            "Tag": "SUPERCASA_VIGILANCE_512",
+            "Value": ""
+        },
+        {
+            "Tag": "SUPERMARKET",
+            "Value": ""
+        },
+        {
+            "Tag": "TAXI_RANK",
+            "Value": ""
+        },
+        {
+            "Tag": "WIDE_RANGE_OF_SERVICES",
+            "Value": ""
+        }
+    ],
+    "GPSLat": 41.1862,
+    "GPSLon": -8.65024,
+    "HasGPSLocation": true,
+    "ID": 21584595,
+    "Images": [
+        {
+            "Description": "Fachada",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfa.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfa.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfa.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfa.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfa.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfa.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfa.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfa.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfa.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97bfa"
+        },
+        {
+            "Description": "Fachada",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfb.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfb.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfb.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfb.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfb.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfb.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfb.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfb.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfb.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97bfb"
+        },
+        {
+            "Description": "Fachada",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfc.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfc.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfc.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfc.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfc.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfc.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfc.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfc.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfc.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97bfc"
+        },
+        {
+            "Description": "Fachada",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfd.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfd.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfd.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfd.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfd.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfd.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfd.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfd.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfd.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97bfd"
+        },
+        {
+            "Description": "Fachada",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfe.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfe.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfe.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfe.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfe.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfe.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfe.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfe.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfe.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97bfe"
+        },
+        {
+            "Description": "Sala de estar",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bff.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bff.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bff.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bff.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bff.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bff.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bff.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bff.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bff.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97bff"
+        },
+        {
+            "Description": "Sala de estar",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c00.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c00.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c00.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c00.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c00.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c00.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c00.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c00.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c00.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c00"
+        },
+        {
+            "Description": "Quarto",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c01.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c01.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c01.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c01.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c01.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c01.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c01.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c01.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c01.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c01"
+        },
+        {
+            "Description": "Quarto",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c02.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c02.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c02.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c02.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c02.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c02.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c02.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c02.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c02.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c02"
+        },
+        {
+            "Description": "Closet",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c03.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c03.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c03.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c03.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c03.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c03.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c03.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c03.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c03.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c03"
+        },
+        {
+            "Description": "Sala de estar",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c04.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c04.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c04.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c04.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c04.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c04.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c04.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c04.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c04.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c04"
+        },
+        {
+            "Description": "Cozinha",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c05.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c05.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c05.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c05.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c05.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c05.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c05.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c05.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c05.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c05"
+        },
+        {
+            "Description": "Corredor",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c06.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c06.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c06.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c06.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c06.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c06.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c06.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c06.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c06.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c06"
+        },
+        {
+            "Description": "Sala de estar",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c07.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c07.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c07.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c07.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c07.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c07.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c07.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c07.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c07.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c07"
+        },
+        {
+            "Description": "Sala de estar",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c08.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c08.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c08.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c08.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c08.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c08.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c08.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c08.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c08.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c08"
+        },
+        {
+            "Description": "Sala de estar",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c09.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c09.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c09.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c09.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c09.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c09.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c09.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c09.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c09.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c09"
+        },
+        {
+            "Description": "Sala de estar",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0a.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0a.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0a.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0a.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0a.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0a.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0a.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0a.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0a.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c0a"
+        },
+        {
+            "Description": "Sala de estar",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0b.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0b.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0b.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0b.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0b.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0b.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0b.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0b.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0b.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c0b"
+        },
+        {
+            "Description": "Varanda",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0c.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0c.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0c.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0c.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0c.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0c.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0c.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0c.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0c.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c0c"
+        },
+        {
+            "Description": "Piscina",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0d.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0d.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0d.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0d.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0d.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0d.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0d.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0d.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0d.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c0d"
+        },
+        {
+            "Description": "Piscina",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0e.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0e.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0e.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0e.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0e.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0e.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0e.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0e.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0e.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c0e"
+        },
+        {
+            "Description": "Escritório",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0f.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0f.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0f.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0f.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0f.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0f.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0f.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0f.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c0f.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c0f"
+        },
+        {
+            "Description": "Sala de estar",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c10.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c10.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c10.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c10.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c10.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c10.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c10.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c10.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c10.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c10"
+        },
+        {
+            "Description": "Sala de estar",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c11.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c11.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c11.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c11.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c11.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c11.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c11.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c11.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c11.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c11"
+        },
+        {
+            "Description": "Cozinha",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c12.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c12.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c12.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c12.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c12.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c12.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c12.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c12.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c12.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c12"
+        },
+        {
+            "Description": "Casa de Banho",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c13.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c13.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c13.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c13.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c13.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c13.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c13.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c13.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c13.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c13"
+        },
+        {
+            "Description": "Fachada",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c14.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c14.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c14.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c14.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c14.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c14.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c14.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c14.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c14.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c14"
+        },
+        {
+            "Description": "Casa de Banho",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c15.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c15.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c15.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c15.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c15.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c15.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c15.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c15.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c15.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c15"
+        },
+        {
+            "Description": "Fachada",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c16.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c16.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c16.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c16.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c16.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c16.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c16.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c16.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c16.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c16"
+        },
+        {
+            "Description": "Fachada",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c17.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c17.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c17.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c17.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c17.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c17.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c17.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c17.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c17.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c17"
+        },
+        {
+            "Description": "Fachada",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c18.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c18.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c18.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c18.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c18.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c18.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c18.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c18.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c18.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c18"
+        },
+        {
+            "Description": "Fachada",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c19.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c19.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c19.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c19.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c19.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c19.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c19.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c19.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c19.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c19"
+        },
+        {
+            "Description": "Fachada",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1a.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1a.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1a.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1a.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1a.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1a.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1a.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1a.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1a.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c1a"
+        },
+        {
+            "Description": "Fachada",
+            "Original": "https://images.egorealestate.com/ZOriginal/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1b.jpg",
+            "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1b.jpg",
+            "Thumbnail_1024x768": "https://images.egorealestate.com/Z1024x768/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1b.jpg",
+            "Thumbnail_1280X1024": "https://images.egorealestate.com/Z1280x1024/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1b.jpg",
+            "Thumbnail_1280x960": "https://images.egorealestate.com/Z1280x960/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1b.jpg",
+            "Thumbnail_2560x1920": "https://images.egorealestate.com/Z2560x1920/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1b.jpg",
+            "Thumbnail_320X240": "https://images.egorealestate.com/Z320x240/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1b.jpg",
+            "Thumbnail_640X480": "https://images.egorealestate.com/Z640x480/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1b.jpg",
+            "Thumbnail_800X600": "https://images.egorealestate.com/Z800x600/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97c1b.jpg",
+            "UID": "6ea68301-0000-0500-0000-000013f97c1b"
+        }
+    ],
+    "LastModified": "2024-11-26T11:21:50",
+    "Logos": null,
+    "MaxAvailablePropertyFormattedPrice": "910 000 €",
+    "MaxPropertyFormattedPrice": "910 000 €",
+    "MinAvailablePropertyFormattedPrice": "235 000 €",
+    "MinAvailablePropertyPriceCurrencyConversions": [],
+    "MinPropertyFormattedPrice": "235 000 €",
+    "Municipality": "Matosinhos",
+    "MunicipalityID": 186,
+    "Name": "Lake - The Garden",
+    "ObjType": "Development",
+    "Parish": "São Mamede de Infesta e Senhora da Hora",
+    "ParishID": 889816,
+    "Reference": "28939",
+    "Status": "Em construção",
+    "StatusID": 2,
+    "Tags": [
+        {
+            "AgencyID": 14357,
+            "ID": 34965598,
+            "InternalName": "Site - Empreend. Comercialização",
+            "IsSystem": false,
+            "Name": "Site - Empreend. Comercialização",
+            "NameMLS": {
+                "Values": []
+            },
+            "Tag": null
+        },
+        {
+            "AgencyID": 14357,
+            "ID": 35011785,
+            "InternalName": "Empreendimento Porto",
+            "IsSystem": false,
+            "Name": "Empreendimento Porto",
+            "NameMLS": {
+                "Values": []
+            },
+            "Tag": null
+        },
+        {
+            "AgencyID": 14357,
+            "ID": 35096084,
+            "InternalName": "Supercasa Destaque Emp.",
+            "IsSystem": false,
+            "Name": "Supercasa Destaque Emp.",
+            "NameMLS": {
+                "Values": []
+            },
+            "Tag": null
+        },
+        {
+            "AgencyID": 14357,
+            "ID": 35119668,
+            "InternalName": "Idealista - Emp. Destacado",
+            "IsSystem": false,
+            "Name": "Idealista - Emp. Destacado",
+            "NameMLS": {
+                "Values": []
+            },
+            "Tag": null
+        },
+        {
+            "AgencyID": 14357,
+            "ID": 35131479,
+            "InternalName": "Co Exclusivo ",
+            "IsSystem": false,
+            "Name": "Co Exclusivo",
+            "NameMLS": {
+                "Values": []
+            },
+            "Tag": null
+        },
+        {
+            "AgencyID": 14357,
+            "ID": 35133726,
+            "InternalName": "Concl 2026",
+            "IsSystem": false,
+            "Name": "Concl 2026",
+            "NameMLS": {
+                "Values": []
+            },
+            "Tag": null
+        },
+        {
+            "AgencyID": 14357,
+            "ID": 35158844,
+            "InternalName": "x Lake",
+            "IsSystem": false,
+            "Name": "x Lake",
+            "NameMLS": {
+                "Values": []
+            },
+            "Tag": null
+        }
+    ],
+    "Thumbnail": "https://images.egorealestate.com/Z512x384/OAYES/S5/C5673/P25405038/Tphoto/ID6ea68301-0000-0500-0000-000013f97bfa.jpg",
+    "Title": "Lake - The Garden",
+    "TotalFractions": 0,
+    "UID": "6f3891c5-a03c-11ef-9e61-060000000056",
+    "Year": 2026,
+    "ZipCode": "",
+    "Zone": "Norte Shopping (Senhora da Hora)",
+    "ZoneID": 12832
+}

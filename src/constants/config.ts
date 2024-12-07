@@ -1,1 +1,1 @@
-export const URL = "www.google.com"
+export const BASE_URL = "https://www.castelhana.pt/empreendimento/"
