@@ -7,7 +7,7 @@ type Props = {
 }
 
 const FractionCard = ({ fraction }: Props) => {
-  console.log("fraction render", fraction)
+  //console.log("fraction render", fraction)
   return (
     <div className="grid grid-cols-3 gap-4">
       <div>

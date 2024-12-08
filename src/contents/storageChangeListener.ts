@@ -11,7 +11,7 @@ listenForStorageChanges("content")
 document.addEventListener(
   "castelhanaApiData",
   (event: CustomEvent<ProjectsData>) => {
-    console.log("castelhanaApiData event:", event.detail)
+    //console.log("castelhanaApiData event:", event.detail)
     useProjectsDataStore.setState((state) => {
       const uniqueDevelopments = [
         ...state.Developments,

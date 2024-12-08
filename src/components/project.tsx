@@ -33,13 +33,21 @@ const ProjectCard = ({ project }: Props) => {
       <div>
         Referência : <span className="text-blue-500">{project.Referencia}</span>
       </div>
-      <div>fractions: {JSON.stringify(project.fractions[0])}</div>
+      <div>fractions length: {project.fractions.length}</div>
       <div>
         Project website link :{" "}
         <a className="text-blue-500" href={project.Link} target="_blank">
           {project.Link}
         </a>
       </div>
+      <div>
+        DateOfExtraction :{" "}
+        <span className="text-blue-500">{project.DateOfExtraction}</span>
+      </div>
+      {/* <div>
+        Infraestruturas:{" "}
+        {JSON.stringify(project.Infraestruturas).slice(0, 100) + "..."}
+      </div> */}
     </div>
   )
 }

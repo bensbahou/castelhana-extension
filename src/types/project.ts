@@ -426,7 +426,6 @@ export type CsvColumn =
   | "Status"
   | "Referencia"
   | "DateOfExtraction"
-  | "Infraestruturas"
 export type FractionsColumns =
   | "Ref"
   | "Piso"
@@ -442,6 +441,7 @@ export type Fractions = Record<FractionsColumns, string>
 export type CleanProject = Record<CsvColumn, string> & {
   ID: number
   fractions: Fractions[]
+  Infraestruturas: Record<string, string>
 }
 
 export type ProjectsApiResponse = typeof projectsApiResponseExample

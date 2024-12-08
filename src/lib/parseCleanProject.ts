@@ -14,8 +14,8 @@ export const parseCleanProject = (project: Project): CleanProject => {
     Status: project.Status,
     Referencia: project.Reference,
     fractions: [],
-    DateOfExtraction: new Date().toISOString(),
-    Infraestruturas: ""
+    DateOfExtraction: new Date().toLocaleString(),
+    Infraestruturas: {}
   }
   return cleanProject
 }
